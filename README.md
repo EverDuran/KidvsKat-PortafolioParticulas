@@ -3,6 +3,10 @@
 </div>
 <br>
 
+## **Video del Proyecto** 
+[2021🚀 Efecto Partículas en Movimiento! Responsivo [Angular 12 & Librería JS] ](https://youtu.be/xiHmxGZtyKU "Youtube")
+<br/>
+
 ## HomeParticulas
 
 Este proyecto se generó con [Angular CLI] (https://github.com/angular/angular-cli) versión 12.0.5.
@@ -12,17 +16,22 @@ Este proyecto se generó con [Angular CLI] (https://github.com/angular/angular-c
 
 Ejecute `ng serve` para un servidor de desarrollo. Vaya a `http: // localhost: 4200 /`. La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
 
-Demostracion de la aplicacion en web :
+### Demostracioó de la aplicación en web:
+
 <div>
 <img src="https://i.ibb.co/mhknVgW/2021-07-09-03-53-12-online-video-cutter-com.gif" alt="particulasjs" border="0" width:50%>
 </div>
 <br>
-Demostracion en tablet :
+
+### Demostración en tablet:
+
 <div>
 <img src="https://i.ibb.co/HxLJqff/tablet.gif" alt="tablet" border="0">
 </div>
-  <br>
-Demostracion en movil :
+<br>
+
+### Demostración en móvil:
+
 <div>
 <img src="https://i.ibb.co/TTYCzWc/movil.gif" alt="movil" border="0">
 </div>
@@ -32,7 +41,7 @@ Demostracion en movil :
 #### Instalar usando npm
 [![anix](https://nodei.co/npm/proton-engine.png)](https://npmjs.org/package/proton-engine)
 
-##### Nota: la version usada es "ng-particles": "^2.14.1", "tsparticles": "^1.31.1",
+##### Nota: la versión usada es "ng-particles": "^2.14.1", "tsparticles": "^1.31.1",
 
 shell
 npm install ng-particles tsparticles
