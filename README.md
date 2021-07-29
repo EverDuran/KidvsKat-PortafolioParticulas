@@ -43,12 +43,12 @@ Ejecute `ng serve` para un servidor de desarrollo. Vaya a `http: // localhost: 4
 
 ##### Nota: la versión usada es "ng-particles": "^2.14.1", "tsparticles": "^1.31.1",
 
-shell
+```shell
 npm install ng-particles tsparticles
-
-
-yarn
+```
+```yarn
 yarn add ng-particles tsparticles
+```
 
 
 #### importar en <b> app.module.ts </b>
@@ -172,9 +172,10 @@ export class AppComponent {
 
 ##### template.html
 
-html
+```html
 <ng-particles [id]="id" [options]="particlesOptions" (particlesLoaded)="particlesLoaded($event)"
   (particlesInit)="particlesInit($event)"></ng-particles>
+```
 
 ## Ayuda adicional
 
